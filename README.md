@@ -29,3 +29,9 @@ Find the mean `Energy Supply per Capita`.
 Find the country that has the maximum % Renewable and its percentage.
 Find the country that has the highest ratio.
 Find countries that are above and below the median.
+
+## Tools and Technologies:
+- Python 
+- Pandas
+- NumPy
+- Jupyter Notebook
