@@ -1,4 +1,4 @@
-# Transorm and Clean Data with Python
+# Transform and Clean Data with Python
 Python code that extracts data from an Excel file, cleans and transforms it, then loads it into a Pandas DataFrame
 
 ## Problem Description:
